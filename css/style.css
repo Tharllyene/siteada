@@ -3,13 +3,31 @@ body{
   font-family: Open Sans, sans-serif;
   background-color: #8A71C9;
   color: #ffffff;
+  margin: 0;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 300;
+}
+
+section{
+  max-width: 60%;
+  margin: 0 auto;
 }
 
 h2 {
+  font-size: 40px;
   color: #2A0074;
 }
 
+h3 {
+  font-size: 22px;
+  font-style: italic;
+}
+
 .titulo-verde {
+  font-size: 22px;
   color: #04FF9F;
 }
 
@@ -19,4 +37,25 @@ h2 {
 
 .titulo-laranja {
   color: #FFE36D;
+}
+
+img {
+  width: 100%
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0; 
+}
+
+a {
+  text-decoration: none;
+  color: #99FFFF;
+  font-weight: 700;
 }

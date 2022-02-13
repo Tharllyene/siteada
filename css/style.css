@@ -82,3 +82,10 @@ a {
   text-decoration: underline;
   font-weight: normal;
 }
+
+button {
+  background-color: #41F341;
+  border: 1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+}
